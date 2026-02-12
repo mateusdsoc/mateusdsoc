@@ -1,7 +1,7 @@
 # 👨🏼‍💻 Mateus Araujo
 
 **`Back-end Developer`**
-**'ML Engineer'**
+**`ML Engineer`**
 
 Olá, sou Mateus Araujo Santos, sou natural de Teófilo Otoni, uma cidade no interior de MG, estou cursando Engenharia de Software na Puc Minas. Gosto muito de colocar em prática ideias de projetos utilizando diversas linguagens de programação.
 
